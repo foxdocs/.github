@@ -1,3 +1,2 @@
 # Foxware Github Repository
-
-Foxware, maintained by Dora Daveri.
+maintained by Dora Daveri
